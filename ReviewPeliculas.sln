@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReviewPeliculas", "ReviewPeliculas\ReviewPeliculas.csproj", "{82AF6CA3-5647-4AEA-845E-F58773FB51B9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XUnitTestApiReviesPeliculas", "XUnitTestApiReviesPeliculas\XUnitTestApiReviesPeliculas.csproj", "{4A54C4C0-FA15-45F9-9145-8514CE78755A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82AF6CA3-5647-4AEA-845E-F58773FB51B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82AF6CA3-5647-4AEA-845E-F58773FB51B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82AF6CA3-5647-4AEA-845E-F58773FB51B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82AF6CA3-5647-4AEA-845E-F58773FB51B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A54C4C0-FA15-45F9-9145-8514CE78755A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A54C4C0-FA15-45F9-9145-8514CE78755A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A54C4C0-FA15-45F9-9145-8514CE78755A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A54C4C0-FA15-45F9-9145-8514CE78755A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42C83597-6701-4F08-B5F1-26C1073DEB5E}
+	EndGlobalSection
+EndGlobal
