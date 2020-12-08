@@ -10,8 +10,8 @@ namespace ReviewPeliculas.Azure
 {
     public class UsuarioRolAzure
     {
-        //static string connectionString = "Server=DESKTOP-UJCISGT;Database=ApiReviewPelicula;Trusted_Connection=True;";
-	static string connectionString = "Server=tcp:apipelicula.database.windows.net,1433;Database=APIPELICULA;User ID=adminapi;Password=Abcd1234;Trusted_Connection=False;Encrypt=True;";
+        static string connectionString = "Server=DESKTOP-UJCISGT;Database=ApiReviewPelicula;Trusted_Connection=True;";
+	    //static string connectionString = "Server=tcp:apipelicula.database.windows.net,1433;Database=APIPELICULA;User ID=adminapi;Password=Abcd1234;Trusted_Connection=False;Encrypt=True;";
 
         private static List<UsuarioRol> usuarioRol;
 
